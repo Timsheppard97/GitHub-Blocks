@@ -1,0 +1,36 @@
+#main {
+    width: 700px;
+    margin: auto;
+}
+
+#one {
+    background-color: #4fbff7;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#two {
+    background-color: #d899e9;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/*Gave the third div a background color jus to make the pictures easier to see*/
+
+#three {
+    background-color: #e3e3ff;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img {
+    height: 200px;
+}
+
